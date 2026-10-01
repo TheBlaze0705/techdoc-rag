@@ -1,6 +1,6 @@
 # TechDoc RAG — Full-Stack RAG Project
 
-A beginner-friendly Retrieval-Augmented Generation (RAG) system for technical documentation.
+A Retrieval-Augmented Generation (RAG) system for technical documentation.
 
 ## Main idea
 
